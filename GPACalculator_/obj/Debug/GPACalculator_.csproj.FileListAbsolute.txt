@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\GPACalculator_\GPACalculator_\bin\Debug\GPACalculator_.exe.config
+C:\Users\user\source\repos\GPACalculator_\GPACalculator_\bin\Debug\GPACalculator_.exe
+C:\Users\user\source\repos\GPACalculator_\GPACalculator_\bin\Debug\GPACalculator_.pdb
+C:\Users\user\source\repos\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.Form1.resources
+C:\Users\user\source\repos\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.Properties.Resources.resources
+C:\Users\user\source\repos\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.csproj.GenerateResource.cache
+C:\Users\user\source\repos\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.exe
+C:\Users\user\source\repos\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.pdb
+C:\Users\shade\Desktop\Assignment 4 Programming 2\GPACalculator_\GPACalculator_\bin\Debug\GPACalculator_.exe.config
+C:\Users\shade\Desktop\Assignment 4 Programming 2\GPACalculator_\GPACalculator_\bin\Debug\GPACalculator_.exe
+C:\Users\shade\Desktop\Assignment 4 Programming 2\GPACalculator_\GPACalculator_\bin\Debug\GPACalculator_.pdb
+C:\Users\shade\Desktop\Assignment 4 Programming 2\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.csprojAssemblyReference.cache
+C:\Users\shade\Desktop\Assignment 4 Programming 2\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.Form1.resources
+C:\Users\shade\Desktop\Assignment 4 Programming 2\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.Properties.Resources.resources
+C:\Users\shade\Desktop\Assignment 4 Programming 2\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.csproj.GenerateResource.cache
+C:\Users\shade\Desktop\Assignment 4 Programming 2\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.csproj.CoreCompileInputs.cache
+C:\Users\shade\Desktop\Assignment 4 Programming 2\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.exe
+C:\Users\shade\Desktop\Assignment 4 Programming 2\GPACalculator_\GPACalculator_\obj\Debug\GPACalculator_.pdb
